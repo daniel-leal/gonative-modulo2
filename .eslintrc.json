@@ -40,6 +40,7 @@
       "import/resolver": {
         "babel-plugin-root-import": {}
       }
-    }
+    },
+    "max-len": "off"
   }
 }
